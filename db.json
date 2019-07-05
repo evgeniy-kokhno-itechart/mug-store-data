@@ -1,0 +1,14 @@
+{
+  "_id": "1",
+  "username": "admin@admin.com",
+  "name": "Super Admin",
+  "roles": [
+    "admin",
+    "user"
+  ],
+  "country": "Belarus",
+  "city": "Minsk",
+  "address": "Mesnikova str, 5 -11",
+  "phone": "+375290000000",
+  "iat": 1516239022
+}
