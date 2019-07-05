@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "_id": "1",
+      "id": "1",
       "username": "admin@admin.com",
       "name": "Super Admin",
       "country": "Belarus",
@@ -10,7 +10,7 @@
       "phone": "+375290000000"
     },
     {
-      "_id": "2",
+      "id": "2",
       "username": "user@user.com",
       "name": "Regular User",
       "country": "Belarus",
@@ -33,11 +33,11 @@
 
   "products": [
     {
-      "_id": "1",
+      "id": "1",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Small Mug",
       "description": "Lorem ipsum dolor sit amet",
-      "category": { "_id": "1", "name": "Mugs" },
+      "category": { "id": "1", "name": "Mugs" },
       "price": { "BYN": 5, "USD": 3 },
       "discount": 0,
       "producer": "Best Kitchenware",
@@ -45,11 +45,11 @@
       "rate": "3"
     },
     {
-      "_id": "2",
+      "id": "2",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Medium Mug",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "1", "name": "Mugs" },
+      "category": { "id": "1", "name": "Mugs" },
       "price": { "BYN": 4, "USD": 2 },
       "discount": 0,
       "producer": "Best Kitchenware",
@@ -57,11 +57,11 @@
       "rate": "5"
     },
     {
-      "_id": "3",
+      "id": "3",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Big Mug",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "1", "name": "Mugs" },
+      "category": { "id": "1", "name": "Mugs" },
       "price": { "BYN": 5, "USD": 2.5 },
       "discount": 0,
       "producer": "East Side Kitchenware",
@@ -69,11 +69,11 @@
       "rate": "5"
     },
     {
-      "_id": "4",
+      "id": "4",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Small Plate",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "2", "name": "Plates" },
+      "category": { "id": "2", "name": "Plates" },
       "price": { "BYN": 3, "USD": 1.5 },
       "discount": 0,
       "producer": "Best Kitchenware",
@@ -81,11 +81,11 @@
       "rate": "5"
     },
     {
-      "_id": "5",
+      "id": "5",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Big Plate",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "2", "name": "Plates" },
+      "category": { "id": "2", "name": "Plates" },
       "price": { "BYN": 3, "USD": 1.5 },
       "discount": 0,
       "producer": "East Side Kitchenware",
@@ -93,11 +93,11 @@
       "rate": "4.9"
     },
     {
-      "_id": "6",
+      "id": "6",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Small Notepad",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "3", "name": "Notepads" },
+      "category": { "id": "3", "name": "Notepads" },
       "price": { "BYN": 7, "USD": 3.5 },
       "discount": 0,
       "producer": "Notepads inc.",
@@ -105,11 +105,11 @@
       "rate": "4.8"
     },
     {
-      "_id": "7",
+      "id": "7",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Medium Notepad",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "3", "name": "Notepads" },
+      "category": { "id": "3", "name": "Notepads" },
       "price": { "BYN": 10, "USD": 5 },
       "discount": 0,
       "producer": "A4",
@@ -117,11 +117,11 @@
       "rate": "5"
     },
     {
-      "_id": "8",
+      "id": "8",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "Big Notepad",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "3", "name": "Notepads" },
+      "category": { "id": "3", "name": "Notepads" },
       "price": { "BYN": 12, "USD": 6 },
       "discount": 0,
       "producer": "Notepads inc.",
@@ -129,11 +129,11 @@
       "rate": "4.9"
     },
     {
-      "_id": "9",
+      "id": "9",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "T-shirt S size",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "4", "name": "T-shirts" },
+      "category": { "id": "4", "name": "T-shirts" },
       "price": { "BYN": 15, "USD": 7.5 },
       "discount": 0,
       "producer": "Conte inc.",
@@ -141,11 +141,11 @@
       "rate": "5"
     },
     {
-      "_id": "10",
+      "id": "10",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "T-shirt M size",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "4", "name": "T-shirts" },
+      "category": { "id": "4", "name": "T-shirts" },
       "price": { "BYN": 17, "USD": 8.5 },
       "discount": 0,
       "producer": "Conte inc.",
@@ -153,11 +153,11 @@
       "rate": "4.9"
     },
     {
-      "_id": "11",
+      "id": "11",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "T-shirt X size",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "4", "name": "T-shirts" },
+      "category": { "id": "4", "name": "T-shirts" },
       "price": { "BYN": 19, "USD": 9.5 },
       "discount": 0,
       "producer": "MF",
@@ -165,11 +165,11 @@
       "rate": "5"
     },
     {
-      "_id": "12",
+      "id": "12",
       "imageURL": "https://picsum.photos/150/100?image=30",
       "title": "T-shirt XL size",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum justo sit amet suscipit tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus magna lacus, egestas vitae urna sed, pulvinar blandit sem. Donec ultrices dolor at neque convallis, ut fringilla quam tincidunt.",
-      "category": { "_id": "4", "name": "T-shirts" },
+      "category": { "id": "4", "name": "T-shirts" },
       "price": { "BYN": 21, "USD": 10.5 },
       "discount": 0,
       "producer": "MF",
@@ -180,19 +180,19 @@
 
   "currencies": [
     {
-      "_id": "1",
+      "id": "1",
       "name": "BYN"
     },
     {
-      "_id": "2",
+      "id": "2",
       "name": "USD"
     }
   ],
 
   "categories": [
-    { "_id": "1", "name": "Mugs" },
-    { "_id": "2", "name": "Plates" },
-    { "_id": "3", "name": "Notepads" },
-    { "_id": "4", "name": "T-shirts" }
+    { "id": "1", "name": "Mugs" },
+    { "id": "2", "name": "Plates" },
+    { "id": "3", "name": "Notepads" },
+    { "id": "4", "name": "T-shirts" }
   ]
 }
