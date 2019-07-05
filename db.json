@@ -7,7 +7,8 @@
       "country": "Belarus",
       "city": "Minsk",
       "address": "Mesnikova str, 5 -11",
-      "phone": "+375290000000"
+      "phone": "+375290000000",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluQGFkbWluLmNvbSIsInJvbGVzIjpbImFkbWluIiwidXNlciJdLCJpYXQiOjE1MTYyMzkwMjJ9.pb6qhcD9yYuwGPysjYmFGxXkmmXoKaSvlWy7Jf2fwVg"
     },
     {
       "id": "2",
@@ -16,19 +17,7 @@
       "country": "Belarus",
       "city": "Gomel",
       "address": "Some str, 10 - 20",
-      "phone": "+375291111111"
-    }
-  ],
-
-  "tokens": [
-    {
-      "id":1,
-      "description": "admin",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluQGFkbWluLmNvbSIsInJvbGVzIjpbImFkbWluIiwidXNlciJdLCJpYXQiOjE1MTYyMzkwMjJ9.pb6qhcD9yYuwGPysjYmFGxXkmmXoKaSvlWy7Jf2fwVg"
-    },
-    {
-      "id":2,
-      "description": "user",
+      "phone": "+375291111111",
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJAdXNlci5jb20iLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTUxNjIzOTAyMn0.wWf1A-w5mXfdXGA3aDdC36eDBshBlIGIjDEhsFYL8sI"
     }
   ],
