@@ -33,13 +33,7 @@
       "discount": 0,
       "producer": "Best Kitchenware",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "3",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "3"
     },
     {
       "id": "2",
@@ -51,13 +45,7 @@
       "discount": 0,
       "producer": "Best Kitchenware",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     },
     {
       "id": "3",
@@ -69,13 +57,7 @@
       "discount": 0,
       "producer": "East Side Kitchenware",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     },
     {
       "id": "4",
@@ -87,13 +69,7 @@
       "discount": 0,
       "producer": "Best Kitchenware",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     },
     {
       "id": "5",
@@ -105,13 +81,7 @@
       "discount": 0,
       "producer": "East Side Kitchenware",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "4.9",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "4.9"
     },
     {
       "id": "6",
@@ -123,13 +93,7 @@
       "discount": 0,
       "producer": "Notepads inc.",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "4.8",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "4.8"
     },
     {
       "id": "7",
@@ -141,13 +105,7 @@
       "discount": 0,
       "producer": "A4",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     },
     {
       "id": "8",
@@ -159,13 +117,7 @@
       "discount": 0,
       "producer": "Notepads inc.",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "4.9",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "4.9"
     },
     {
       "id": "9",
@@ -177,13 +129,7 @@
       "discount": 0,
       "producer": "Conte inc.",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     },
     {
       "id": "10",
@@ -195,13 +141,7 @@
       "discount": 0,
       "producer": "Conte inc.",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "4.9",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "4.9"
     },
     {
       "id": "11",
@@ -213,13 +153,7 @@
       "discount": 0,
       "producer": "MF",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     },
     {
       "id": "12",
@@ -231,16 +165,10 @@
       "discount": 0,
       "producer": "MF",
       "publishDate": "2018-01-03T19:04:28.809Z",
-      "rate": "5",
-      "imageURLs": [
-        {
-          "original": "https://picsum.photos/700/300?image=1080",
-          "thumbnail": "https://picsum.photos/250/150?image=1080"
-        }
-      ]
+      "rate": "5"
     }
   ],
-  
+
   "currencies": [
     {
       "id": "1",
